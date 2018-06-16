@@ -6,11 +6,19 @@
 @import "compass";
 
 $blue: #3bbfce;
+$jaune-epilepsie: #F7B11D;
+
 $width: 70%;
 $margin: 0 auto 0 auto; 
 
-body {
+h1 {
     color: $blue;
+}
+.main-title {
+    color: $blue;
+}
+body {
+    color: $jaune-epilepsie;
     background-color: darken($blue, 9%);
     width: $width;
     margin: $margin;

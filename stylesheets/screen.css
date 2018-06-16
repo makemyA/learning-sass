@@ -2,9 +2,19 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 12, ../sass/screen.scss */
-body {
+/* line 14, ../sass/screen.scss */
+h1 {
   color: #3bbfce;
+}
+
+/* line 17, ../sass/screen.scss */
+.main-title {
+  color: #3bbfce;
+}
+
+/* line 20, ../sass/screen.scss */
+body {
+  color: #F7B11D;
   background-color: #2ca2af;
   width: 70%;
   margin: 0 auto 0 auto;
